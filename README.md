@@ -1,33 +1,38 @@
-<!-- HERO: Minimal, strong typing animation -->
-<h1 align="center">Ayush Sudhir Lone</h1>
+<!<div align="center">
 
-<p align="center">
-  <em>Diploma Engineering Student · Building software skills step by step</em>
-</p>
+# 👋 Ayush Sudhir Lone  
+### Diploma Engineering Student | Building Software Foundations
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Exploring+concepts.;Testing+ideas+in+code.;Turning+basics+into+mini+projects.;Progressing+every+single+day."/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONEFORTS&theme=tokyo-night&hide_border=true" />
-</p>
+## 🧠 Learning in Motion
+
+> Building step by step. Testing ideas. Improving daily.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONEFORTS&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 Overall Progress
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LONEFORTS&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LONEFORTS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LONEFORTS&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
 
-<h3 align="center">Toolchain</h3>
+## 📈 Activity & Growth
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LONEFORTS&theme=tokyo-night&hide_border=true" width="100%"/>
+
+---
+
+## 🧩 Language Distribution (Signal of Breadth)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONEFORTS&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
+
+---
+
+## 🛠️ Languages in Use (Visual, Not Words)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,html,css&theme=dark" />
@@ -35,6 +40,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer"/>
-</p>
+## 📌 Core Work Pattern (Visual Signal)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONEFORTS&theme=tokyonight" width="100%" />
+
+---
+
+## 📊 Code-Time Energy (Feels Like Infrastructure Growth)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONEFORTS&theme=tokyonight&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONEFORTS&theme=tokyonight" width="49%" />
+
+---
+
+<div align="center">
+
+⭐ This profile grows with discipline, structure, and time.
+
+</div>
