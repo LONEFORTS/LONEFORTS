@@ -26,7 +26,12 @@ This space evolves as my skills grow, reflecting progress, experiments, and cons
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LONEFORTS&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LONEFORTS&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LONEFORTS&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONEFORTS&layout=compact&show_icons=true" 
+    alt="Languages percentage"
+  />
+</p>
 
 ---
 
