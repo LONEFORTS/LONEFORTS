@@ -8,10 +8,9 @@
 I am Ayush Sudhir Lone, a Computer Engineering student building software skills one step at a time. 
 This GitHub captures my daily learning — exploring programming concepts, testing ideas in code, and turning basics into working mini projects. 
 Here you’ll find practice programs, structured learning repositories, and small projects focused on fundamentals and problem-solving. 
-This space evolves as my skills grow, reflecting progress, experiments, and consistent improvement<br><br>Skills 
+This space evolves as my skills grow, reflecting progress, experiments, and consistent improvement<br>
 
----
----
+
 
 # 💻👨‍💻 Current Learning Path: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -36,4 +35,4 @@ This space evolves as my skills grow, reflecting progress, experiments, and cons
 # 📈 Growth & Learning Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LONEFORTS&theme=midnight-purple&hide_border=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg
+
