@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img src="https://github.com/LONEFORTS/GoLang_Journey/raw/main/asset/asset.png" alt="Asset Image" width="500"/>
+</p>
+
 # 💫 About Me:
 I am Ayush Sudhir Lone, a Computer Engineering student building software skills one step at a time. 
 This GitHub captures my daily learning — exploring programming concepts, testing ideas in code, and turning basics into working mini projects. 
