@@ -10,6 +10,7 @@ This GitHub captures my daily learning — exploring programming concepts, testi
 Here you’ll find practice programs, structured learning repositories, and small projects focused on fundamentals and problem-solving. 
 This space evolves as my skills grow, reflecting progress, experiments, and consistent improvement<br>
 
+#Currently Working On : Long-Terk Polyglot System Development 
 
 
 # 💻👨‍💻 Current Learning Path: 
