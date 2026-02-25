@@ -45,5 +45,4 @@ This space evolves as my skills grow, reflecting progress, experiments, and cons
 
 
 
-https://komarev.com/ghpvc/?username=LONEFORTS&color=blue
 
