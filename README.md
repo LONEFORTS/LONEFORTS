@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/LONEFORTS/GoLang_Journey/raw/main/asset/asset.png" alt="Asset Image" width="500"/>
+  <img src="https://github.com/LONEFORTS/GoLang_Journey/raw/main/asset/fortresses.png" alt="Asset Image" width="500"/>
 </p>
 
 # 💫 About Me:
